@@ -1,56 +1,49 @@
 <!DOCTYPE html>
-<!--
-  TEAM: replace every line of placeholder text below with your proposal content. The eight
-  headings stay exactly as they are — same wording, same order.
-
-  This page is checked only as REACHABLE. It is not judged on how it looks. Do not spend
-  time on design here; spend it on the proposal.
-
-  Do not add external stylesheets, fonts, scripts or images. This page loads nothing.
--->
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Proposal — ISOM 472</title>
+<title>Proposal — Northgate Bakery order book</title>
 <style>
-  body {
-    max-width: 40em;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    line-height: 1.6;
-  }
+  body { max-width: 40em; margin: 2rem auto; padding: 0 1rem;
+         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+         line-height: 1.6; }
+  h1 { margin-bottom: 0.2em; }
+  .team { color: #555; margin-top: 0; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid #ccc; padding: 0.4em 0.6em; text-align: left; }
 </style>
 </head>
 <body>
 
-<h1>TODO: the system's name — Proposal</h1>
-<p>TODO: your team name and members.</p>
+<h1>Northgate Bakery order book</h1>
+<p class="team">Example team &middot; ISOM 472, Fall 2026/2027 &middot; Kuwait University</p>
 
+<p><em>This is the worked example for ISOM 472. The team and the client are invented. Read it for
+the shape and the level of detail, then write your own about your own client.</em></p>
 <h2>1. The client, and how you reach them</h2>
-<p>TODO</p>
-
+<p>Northgate Bakery, a single shop in Salmiya with four staff. Our contact is Fajer Al-Otaibi, who owns it and works the counter most mornings. Two of us buy bread there; we met her on 14 September and she has agreed to a fifteen-minute call every second Sunday.</p>
 <h2>2. What happens today, and what goes wrong</h2>
-<p>TODO</p>
-
+<p>Orders for cakes and large bread trays arrive on the shop&#x27;s WhatsApp. Whoever has the phone writes the order in a paper notebook by the till. At the end of the day the notebook is not copied anywhere. When the morning person is off, the evening person cannot tell which orders were already baked. Fajer says about four orders a week are either baked twice or missed entirely, and the missed ones are found out when the customer arrives.</p>
 <h2>3. Who is better off, and how you would know</h2>
-<p>TODO</p>
-
+<p>The counter staff, who would stop guessing, and the customer who arrives to collect. The signal is the number of orders baked twice or missed in a week. Fajer counts it now from memory; she agreed to write the number down each week from 21 September, so we have a before and an after.</p>
 <h2>4. What the system does, in outline</h2>
-<p>TODO</p>
-
+<ul><li>Record an order: customer name, phone, what was ordered, the day it is wanted</li><li>Show today&#x27;s orders, in the order they are wanted</li><li>Mark an order as baked, and mark it as collected</li><li>Flag two orders that look like the same order — same customer, same day</li><li>Show last week&#x27;s orders so nothing has to be remembered</li></ul>
 <h2>5. What it records</h2>
-<p>TODO</p>
-
+<table>
+<tr><th>Thing</th><th>What it holds</th></tr>
+<tr><td>Customer</td><td>name, phone</td></tr>
+<tr><td>Order</td><td>which customer, what was ordered, day wanted, state (new · baked · collected)</td></tr>
+<tr><td>Staff member</td><td>who marked an order baked or collected</td></tr>
+</table>
+<p>One customer has many orders. Every change of state records who made it.</p>
 <h2>6. In scope by the final week — and what is not</h2>
-<p>TODO</p>
-
+<p><strong>Working by the final week:</strong> recording an order, the day&#x27;s list, marking baked and collected, the duplicate flag, and last week&#x27;s list. Staff sign in with an email and password.</p>
+<p><strong>Deliberately not:</strong> payments, delivery, stock or ingredients, the Instagram orders Fajer also gets, and anything on the customer&#x27;s phone. WhatsApp itself is untouched — orders are still read there and typed in here.</p>
 <h2>7. After the semester</h2>
-<p>TODO</p>
-
+<p>Fajer can keep using it on the shop&#x27;s tablet; it costs nothing to run at her volume. The code stays public, so the next team, or the next student she hires, can pick it up. If she outgrows it, what she has is a written description of exactly what her shop needs, which is worth more to a supplier than a conversation.</p>
 <h2>8. What you told the client this is</h2>
-<p>TODO</p>
+<p>We told Fajer on 14 September that this is a student project for a university course, built by four students over one semester; that the code and the page are public and anyone can read them; that we will not put her customers&#x27; real phone numbers in it while we build; and that after the final week in December nobody is paid to fix it, though she may keep using it. She said that was fine and asked for it to be &quot;simple enough for Mariam&quot;, her evening counter staff.</p>
 
 </body>
 </html>

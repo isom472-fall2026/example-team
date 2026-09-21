@@ -1,17 +1,23 @@
-# TODO: the system's name
+> **This is the ISOM 472 worked example.** The team, the client and the bakery are invented.
+> Read it to see what a finished Phase 1 looks like — the proposal, the published page, the
+> signed team agreement, the stories, and one pull request that was reviewed and merged.
+> Do not copy the project; copy the shape.
 
-**Client:** TODO: who the client is — the organisation and the person you deal with.
+# Northgate Bakery order book
 
-TODO: what the system does, in two lines. Plain language, no jargon. Someone who has
-never met your client should understand what it is for after reading these two lines.
+**Client:** Northgate Bakery, Salmiya — Fajer Al-Otaibi, who owns it.
 
-> **Next due: Wednesday 23 September — your proposal.**
-> Write it in `docs/proposal.md`, then publish it. Steps: [docs/how-we-work.md](docs/how-we-work.md#phase-1--the-proposal)
+Orders for cakes and bread trays arrive on WhatsApp and are written in a paper notebook, so
+about four a week are baked twice or missed. This records them in one place the whole shop
+can see.
+
+> **Next due: Wednesday 7 October — Phase 2, the design sprint.**
+> Stories with acceptance criteria, the schema, the split, the token plan.
 > Update this line at the start of every phase. It is the first thing your team sees.
 
-- **Proposal page:** TODO: link to the published page (`https://<owner>.github.io/<repo>/docs/`)
-- **Running system:** TODO: link to the deployed system once it exists
-- **Board:** TODO: link to your Project board
+- **Proposal page:** https://isom472-fall2026.github.io/example-team/docs/
+- **Running system:** not yet — first increment is due at the end of Phase 3
+- **Board:** https://github.com/isom472-fall2026/example-team/issues
 
 ## Where do I go?
 
@@ -36,12 +42,12 @@ it. Do not delete it.
 
 | Role | Name | What they hand in |
 |---|---|---|
-| Client Lead | TODO | the backlog of user stories |
-| Design Lead | TODO | the prototype and the screen list |
-| Data Lead | TODO | the schema and seed data in Supabase |
-| Build Lead | TODO | the running system and release notes |
-| FinOps Lead | TODO | the ledger |
-| Quality Lead | TODO | bug issues, each closed as fixed, will-not-fix or not-a-bug |
+| Client Lead | Fatima (example) | the backlog of user stories |
+| Design Lead | Noura (example) | the prototype and the screen list |
+| Data Lead | Yousef (example) | the schema and seed data in Supabase |
+| Build Lead | Ahmad (example) | the running system and release notes |
+| FinOps Lead | — combined with Quality, team of four | the ledger |
+| Quality Lead | — see above | bug issues, each closed as fixed, will-not-fix or not-a-bug |
 
 At four members, Design and Quality combine, and Data and FinOps combine. At five, one
 person holds a combined Quality and FinOps Lead. At six, every role is held by one person.
@@ -50,12 +56,12 @@ cuts the tag.
 
 | Phase | Phase Lead | Due |
 |---|---|---|
-| 1 — team, environment, proposal | TODO | Wed 23 Sep |
-| 2 — design sprint | TODO | Wed 7 Oct |
-| 3 — sprint 1 | TODO | Wed 21 Oct |
-| 4 — sprint 2 | TODO | Wed 4 Nov |
-| 5 — sprint 3 | TODO | Wed 18 Nov |
-| 6 — final sprint | TODO | Wed 9 Dec |
+| 1 — team, environment, proposal | Fatima (example) | Wed 23 Sep |
+| 2 — design sprint | Yousef (example) | Wed 7 Oct |
+| 3 — sprint 1 | Ahmad (example) | Wed 21 Oct |
+| 4 — sprint 2 | Noura (example) | Wed 4 Nov |
+| 5 — sprint 3 | Fatima (example) | Wed 18 Nov |
+| 6 — final sprint | Ahmad (example) | Wed 9 Dec |
 
 ## What is in this repository
 

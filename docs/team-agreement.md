@@ -11,24 +11,22 @@ than in week 10.
 
 | Name | Standing role | Hours per week I can give | How to reach me fastest | Signed (type your name) |
 |---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Fatima (example) | Client Lead | 6 | WhatsApp | Fatima |
+| Noura (example) | Design Lead | 5 | WhatsApp | Noura |
+| Yousef (example) | Data Lead | 6 | WhatsApp, or Teams after 6pm | Yousef |
+| Ahmad (example) | Build Lead | 8 | Teams | Ahmad |
 
 ## How we work together
 
 We agree the following. Edit the lines if your team wants different answers — except the
 last two, which are the course's rules and are not yours to change.
 
-1. We meet **<day>** at **<time>**, **<where — in person or online>**.
-2. We answer messages within **<number>** hours on a working day.
+1. We meet **Sunday** at **12:30**, **in the library, second floor**.
+2. We answer messages within **12** hours on a working day.
 3. Work is picked from the board. Nobody works on something that is not a story.
 4. If someone cannot finish what they took, they say so **before** the day it is due, in
    the team group. Saying so early is not failure. Silence is.
-5. If a member misses **<number>** meetings without telling anyone, the Phase Lead tells
+5. If a member misses **two** meetings without telling anyone, the Phase Lead tells
    the instructor. We do not carry a silent member to week 14 and raise it at the end.
 6. We do not change someone else's work without telling them.
 7. Every pull request is reviewed by someone who did not write it.
@@ -44,4 +42,4 @@ last two, which are the course's rules and are not yours to change.
 | A story is too big to finish this sprint | Split it, or move it. Say so on the board before the sprint ends. |
 | The client changes their mind | The Client Lead writes it as a new story. The old work is not deleted quietly. |
 
-Signed by the whole team in Phase 1.
+Signed by the whole team on 23 September 2026, in class.

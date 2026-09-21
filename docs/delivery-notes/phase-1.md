@@ -9,11 +9,11 @@ Phase 1 has no stories yet. It has five things, and they are either done or they
 
 | | Done | Where it is |
 |---|---|---|
-| The proposal, in its eight sections | ☐ | `docs/proposal.md` |
-| The proposal published as a page | ☐ | link: |
-| The team table filled in on the front page | ☐ | `README.md` |
-| The team agreement, signed by everyone | ☐ | `docs/team-agreement.md` |
-| Every member has one commit GitHub shows under their name | ☐ | see the table below |
+| The proposal, in its eight sections | ✅ | `docs/proposal.md` |
+| The proposal published as a page | ✅ | https://isom472-fall2026.github.io/example-team/docs/ |
+| The team table filled in on the front page | ✅ | `README.md` |
+| The team agreement, signed by everyone | ✅ | `docs/team-agreement.md` |
+| Every member has one commit GitHub shows under their name | ✅ | see the table below |
 
 ## Every member's first commit
 
@@ -22,20 +22,22 @@ grey icon means it is not counted — that member fixes it before the tag.*
 
 | Name | Link to their commit |
 |---|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Fatima (example) | the proposal commit |
+| Noura (example) | the persona commit |
+| Yousef (example) | the data section of the proposal |
+| Ahmad (example) | the published page |
+
+*In a real repository each of these is a link to that member's commit, and their photo shows
+next to it. A grey icon means it did not count.*
 
 ## The client
 
-*Who they are, and the last time you actually spoke to them. One line.*
+Northgate Bakery — Fajer Al-Otaibi. Last spoken to on 20 September, in the shop.
 
 ## Anything not done, and what you are doing about it
 
-*Say which, and by when.*
+Nothing outstanding for Phase 1. Fajer starts counting missed orders this week, so the
+before-and-after number in section 3 of the proposal begins on 21 September.
 
 ## The tag for this phase
 
