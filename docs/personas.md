@@ -25,3 +25,11 @@ Fajer takes most of the large orders herself, usually while serving someone else
 the notebook because she can see it, and she will not use anything that needs more than a
 phone to check. What she wants at the end of the day is to know that tomorrow's list is
 right without asking anyone.
+
+---
+
+## Ahmad, the baker
+
+Ahmad reads the next day's list at five in the morning and bakes from it. He never opens
+WhatsApp. If the list is wrong he finds out when someone arrives at the counter, which is
+too late to fix and is how the same tray gets baked twice.
