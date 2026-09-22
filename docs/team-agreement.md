@@ -1,7 +1,12 @@
 # Team agreement
 
-Every member fills in their own line and types their name in the last column. The Phase 1
-Lead commits it. It is part of Phase 1.
+Every member fills in their own line and signs it **twice**: once by hand, and once through
+Antigravity. Both signatures are commits made from that member's own GitHub account, on the
+branch the Phase 1 Lead opens. The second one is how the course checks that Antigravity is
+working on each laptop.
+
+Steps for both signatures, and the three prompts, are in
+[prompts.md](prompts.md#signing-the-team-agreement). It is part of Phase 1.
 
 This is not a formality. Most teams that struggle in this course struggle over the same
 three things, and all three are easier to settle now, while everyone is still friendly,
@@ -9,12 +14,16 @@ than in week 10.
 
 ## What each of us commits to
 
-| Name | Standing role | Hours per week I can give | How to reach me fastest | Signed (type your name) |
-|---|---|---|---|---|
-| Fatima (example) | Client Lead | 6 | WhatsApp | Fatima |
-| Noura (example) | Design Lead | 5 | WhatsApp | Noura |
-| Yousef (example) | Data Lead | 6 | WhatsApp, or Teams after 6pm | Yousef |
-| Ahmad (example) | Build Lead | 8 | Teams | Ahmad |
+| Name | Standing role | Hours per week I can give | How to reach me fastest | Signed — by hand | Signed again — through Antigravity |
+|---|---|---|---|---|---|
+| Fatima (example) | Client Lead | 6 | WhatsApp | Fatima | @fatima-example, 23 Sep 2026 |
+| Noura (example) | Design Lead | 5 | WhatsApp | Noura | @noura-example, 23 Sep 2026 |
+| Yousef (example) | Data Lead | 6 | WhatsApp, or Teams after 6pm | Yousef | @yousef-example, 23 Sep 2026 |
+| Ahmad (example) | Build Lead | 8 | Teams | Ahmad | @ahmad-example, 23 Sep 2026 |
+
+Each member typed their own name in the fifth column and asked Antigravity to write the
+sixth, in a second commit. Nobody signs for anybody else: the commit history shows which
+account made each signature.
 
 ## How we work together
 
@@ -42,4 +51,5 @@ last two, which are the course's rules and are not yours to change.
 | A story is too big to finish this sprint | Split it, or move it. Say so on the board before the sprint ends. |
 | The client changes their mind | The Client Lead writes it as a new story. The old work is not deleted quietly. |
 
-Signed by the whole team on 23 September 2026, in class.
+Signed by the whole team on 23 September 2026, in class — both columns, every row, each
+from that member's own account.
