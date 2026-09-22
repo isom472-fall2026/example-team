@@ -28,13 +28,30 @@ Every commit carries an email address. If that address is not on your GitHub acc
 GitHub cannot tell the commit is yours. It shows a grey icon and no name, and your work
 does not appear in your record — so it does not count towards your individual mark.
 
-In Antigravity, open the terminal and run these two lines, with your own name and the
-email you added in step 1:
+**In GitHub Desktop**, which is the easiest place to do it:
+
+1. Open **Settings** — on Windows, **File → Options**; on a Mac, **GitHub Desktop →
+   Settings**.
+2. Choose **Git** on the left, then the **Author** tab.
+3. Put your own name in **Name**, and choose your KU email address in **Email**. Only
+   addresses already on your GitHub account appear there — add it in step 1 first if it
+   is missing.
+4. Click **Save**.
+
+The dialog says what it is doing: *these preferences will edit your global Git config
+file*. Antigravity and the terminal read that same file, so setting it once sets it
+everywhere.
+
+**Or type it**, in Antigravity's terminal, with your own name and the email you added in
+step 1:
 
 ```
 git config --global user.name "Your Name"
 git config --global user.email "you@ku.edu.kw"
 ```
+
+Commits you already made with the wrong address stay wrong. Fix the setting, then commit
+again.
 
 ## 4. Check it worked
 
@@ -65,15 +82,17 @@ the repository, not something you broke.
 
 ## 6. Supabase
 
-Your data and your logins live in Supabase. **The Data Lead does this once for the team.**
+Your data and your logins live in Supabase. **The team creates one shared account, not one
+each.** The Data Lead sets it up.
 
-1. Create a free account at [supabase.com](https://supabase.com). No payment card.
-2. **New project.** Name it after your team. Choose the region closest to Kuwait that the
-   free plan offers, and keep the database password somewhere your team can find it — it is
-   shown once.
-3. Invite your teammates: **Organization settings → Team → Invite**. If the free plan will
-   not take everyone, the Data Lead stays the only account holder; the rest of you build
-   against the keys below, which is enough.
+1. Agree whose email address the account uses. That inbox receives the sign-in codes, so
+   everyone depends on that person being reachable — and every member must be able to sign
+   in to it.
+2. Create the account at [supabase.com](https://supabase.com). It is free, it works in
+   Kuwait, and it does not ask for a card.
+3. **New project.** Name it after your team. Choose the region closest to Kuwait that the
+   free plan offers, and keep the database password where your team can find it — it is
+   shown once and never again.
 4. **Settings → API.** You need two values: the **Project URL** and the **anon public key**.
 
 ### Where the keys go
