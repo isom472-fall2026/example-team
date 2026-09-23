@@ -14,12 +14,12 @@ than in week 10.
 
 ## What each of us commits to
 
-| Name | Standing role | Hours per week I can give | How to reach me fastest | Signed — by hand | Signed again — through Antigravity |
-|---|---|---|---|---|---|
-| Fatima (example) | Client Lead | 6 | WhatsApp | Fatima | @fatima-example, 23 Sep 2026 |
-| Noura (example) | Design Lead | 5 | WhatsApp | Noura | @noura-example, 23 Sep 2026 |
-| Yousef (example) | Data Lead | 6 | WhatsApp, or Teams after 6pm | Yousef | @yousef-example, 23 Sep 2026 |
-| Ahmad (example) | Build Lead | 8 | Teams | Ahmad | @ahmad-example, 23 Sep 2026 |
+| Name               | Standing role | Hours per week I can give | How to reach me fastest      | Signed — by hand | Signed again — through Antigravity |
+| ------------------ | ------------- | ------------------------- | ---------------------------- | ----------------- | ----------------------------------- |
+| Mohammad (example) | Client Lead   | 6                         | WhatsApp                     | Fatima            | @fatima-example, 23 Sep 2026        |
+| Noura (example)    | Design Lead   | 5                         | WhatsApp                     | Noura             | @noura-example, 23 Sep 2026         |
+| Yousef (example)   | Data Lead     | 6                         | WhatsApp, or Teams after 6pm | Yousef            | @yousef-example, 23 Sep 2026        |
+| Ahmad (example)    | Build Lead    | 8                         | Teams                        | Ahmad             | @ahmad-example, 23 Sep 2026         |
 
 Each member typed their own name in the fifth column and asked Antigravity to write the
 sixth, in a second commit. Nobody signs for anybody else: the commit history shows which
@@ -44,12 +44,12 @@ last two, which are the course's rules and are not yours to change.
 
 ## What we do when it goes wrong
 
-| If this happens | We do this |
-|---|---|
-| A member disappears for a week | The Phase Lead messages them, then tells the instructor. |
-| Two members disagree about a design | Both state their case to the team. The Phase Lead decides and the decision is written in that phase's delivery note. |
-| A story is too big to finish this sprint | Split it, or move it. Say so on the board before the sprint ends. |
-| The client changes their mind | The Client Lead writes it as a new story. The old work is not deleted quietly. |
+| If this happens                          | We do this                                                                                                           |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| A member disappears for a week           | The Phase Lead messages them, then tells the instructor.                                                             |
+| Two members disagree about a design      | Both state their case to the team. The Phase Lead decides and the decision is written in that phase's delivery note. |
+| A story is too big to finish this sprint | Split it, or move it. Say so on the board before the sprint ends.                                                    |
+| The client changes their mind            | The Client Lead writes it as a new story. The old work is not deleted quietly.                                       |
 
 Signed by the whole team on 23 September 2026, in class — both columns, every row, each
 from that member's own account.
