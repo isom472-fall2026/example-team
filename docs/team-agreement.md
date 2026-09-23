@@ -16,7 +16,7 @@ than in week 10.
 
 | Name               | Standing role | Hours per week I can give | How to reach me fastest      | Signed — by hand | Signed again — through Antigravity |
 | ------------------ | ------------- | ------------------------- | ---------------------------- | ----------------- | ----------------------------------- |
-| Mohammad (example) | Client Lead   | 6                         | WhatsApp                     | Fatima            | @fatima-example, 23 Sep 2026        |
+| Mohammad2 (example) | Client Lead   | 6                         | WhatsApp                     | Fatima            | @fatima-example, 23 Sep 2026        |
 | Noura (example)    | Design Lead   | 5                         | WhatsApp                     | Noura             | @noura-example, 23 Sep 2026         |
 | Yousef (example)   | Data Lead     | 6                         | WhatsApp, or Teams after 6pm | Yousef            | @yousef-example, 23 Sep 2026        |
 | Ahmad (example)    | Build Lead    | 8                         | Teams                        | Ahmad             | @ahmad-example, 23 Sep 2026         |
